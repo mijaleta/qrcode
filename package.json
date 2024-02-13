@@ -1,0 +1,14 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "This is about how qr code works in node js and javascript library which is qrcode.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miretu Jaleta",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  }
+}
